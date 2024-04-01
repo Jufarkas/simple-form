@@ -1,2 +1,3 @@
 # simple-form
-Quick simple form with validation
+
+Quick example form with JavaScript validation
